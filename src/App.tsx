@@ -1,4 +1,4 @@
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter } from 'react-router-dom';
 
 import {
   About,
@@ -10,11 +10,11 @@ import {
   Tech,
   Works,
   StarsCanvas,
-} from "./components";
-import { useEffect } from "react";
-import { config } from "./constants/config";
+} from './components';
+import { useEffect } from 'react';
+import { config } from './constants/config';
 
-import SocialLinks from "./components/sections/SocialLinks";
+import SocialLinks from './components/sections/SocialLinks';
 
 const App = () => {
   useEffect(() => {

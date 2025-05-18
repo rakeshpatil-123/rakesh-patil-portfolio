@@ -36,14 +36,8 @@ const socialLinks = [
     url: 'https://www.facebook.com/profile.php?id=100051238068351',
     name: 'Facebook',
   },
-  { id: 7, logo: emailLogo,
-    url: 'mailto:rakeshpatil7496@gmail.com',
-    name: 'Email'
-  },
-  { id: 8, logo: youtubeLogo,
-    url: 'https://www.youtube.com/@RakeshOfficialHub',
-    name: 'Youtube'
-  },
+  { id: 7, logo: emailLogo, url: 'mailto:rakeshpatil7496@gmail.com', name: 'Email' },
+  { id: 8, logo: youtubeLogo, url: 'https://www.youtube.com/@RakeshOfficialHub', name: 'Youtube' },
 ];
 
 const SocialLinks = () => {
